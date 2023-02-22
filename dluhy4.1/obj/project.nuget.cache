@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UV/bqIITD4A+VAoWI48OuUfAg7g52pSte6OugbL7fbn2DV0/jS8exgZ3RjDs9Qd41ntCLXC852ygfityk6Ga3w==",
+  "dgSpecHash": "S3UC6vC+B/41IqOiGZRCHNLHjXxm8Nqb5SETfMtUHnIwUjCruBvo3yfDgE6V3pBH8dEQeUhn4Wuley2RuAMsDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\dog56\\source\\repos\\dluhy4.1\\dluhy4.1\\dluhy4.1.csproj",
   "expectedPackageFiles": [
@@ -48,6 +48,7 @@
     "C:\\Users\\dog56\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.24.0\\microsoft.identitymodel.protocols.openidconnect.6.24.0.nupkg.sha512",
     "C:\\Users\\dog56\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.24.0\\microsoft.identitymodel.tokens.6.24.0.nupkg.sha512",
     "C:\\Users\\dog56\\.nuget\\packages\\microsoft.net.compilers\\1.0.0\\microsoft.net.compilers.1.0.0.nupkg.sha512",
+    "C:\\Users\\dog56\\.nuget\\packages\\microsoft.net.compilers.toolset\\4.4.0\\microsoft.net.compilers.toolset.4.4.0.nupkg.sha512",
     "C:\\Users\\dog56\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\dog56\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\dog56\\.nuget\\packages\\microsoft.owin\\3.0.1\\microsoft.owin.3.0.1.nupkg.sha512",
